@@ -2,4 +2,4 @@ The .sh script is a Django with postgres automated configuration, for the initia
 One data model is migrated. Bootstrap files are downloaded from github.
 Database, User and password are hypothetical only for testing.
 The shell script contains bash and python code.
-Also, a bash script to wipe Django and Postgres for consecutive testing from scratch is included. Don't forget to erase django-apps folder also.
+Also, a bash script to wipe Django and Postgres for consecutive testing from scratch is included. When deleting postgresql and Django, don't forget to erase django-apps folder also.
